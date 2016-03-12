@@ -1,3 +1,38 @@
 baseurl = "http://www.linuxfests.org/"
 languageCode = "en-us"
-title = "LinuxFests"
+title = "Linux Fests"
+
+[params]
+    name = "LinuxFests"
+    description = "LinuxFests is a 501c(3) not-for-profit organzation based in California. Our mission is to provide educational programs around free and open source software."
+    [params.navigation]
+        brand = "LinuxFests"
+
+    [params.header]
+        image = "."
+        name = "LinuxFests"
+        subtitle = "A home for educational programs focused on free and open source software & culture."
+
+    [params.about]
+        title = "About"
+        link = "/about"
+
+    [params.contact]
+        title = "Contact"
+        link ="/contact"
+
+    [params.portfolio]
+        title = "Our Programs"
+        linktext = "Programs"
+        client = "Program"
+        date = "Join Date:"
+        category = "Category"
+        buttontext = "Close"
+
+    [params.footer]
+        copyright = ""
+
+    [params.footer.location]
+        title = "Mailing Address"
+        # Postal address (add as many lines as necessary)
+        address = ["PO BOX 18351, Encino, CA 91416-8351"]
