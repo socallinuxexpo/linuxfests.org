@@ -1,8 +1,10 @@
 modalID: 1
 title: SCALE
-date: 2002-11-02
+date: 2002
 img: troy.png
-client: SCALE
+lead: Ilan Rabinovitch
+city: Pasadena, CA
+client: www.socallinuxexpo.org
 clientLink: "http://www.socallinuxexpo.org"
 category: Conference
-description: SCALE, also known as the Southern California Linux Expo is a community and volunteer organized event focused on free and open source software.  Founded in 2002, the event has grown from humble beginings into the largest open source event in North America. More details available at www.socallinuxexpo.org
+description: "<a href='http://www.socallinuxexpo.org'>SCALE</a>, also known as the Southern California Linux Expo is a community and volunteer organized event focused on free and open source software.  Founded in 2002, the event has grown from humble beginings into the largest open source event in North America."

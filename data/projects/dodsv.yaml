@@ -2,7 +2,9 @@ modalID: 6
 title: DevOpsDays Silicon Valley
 date: 2014-06
 img: sv_logo.png
-client: DevOpsDays
+lead: Jennifer Davis
+city: Mountain View, CA
+client: www.devopsdays.org
 clientLink: "http://www.devopsdays.org/events/2016-siliconvalley/"
 category: Conference
-description: DevOpsDays Silicon Valley is the 2nd longest running <a href="http://www.devopsdays.org">DevOpsDays event. While it started off as a one day event in Mountain View, it has grown and moved to various homes in the Silicon Valley area. DevOpsDays joined LinuxFests in 2014.
+description: DevOpsDays Silicon Valley is the 2nd longest running <a href="http://www.devopsdays.org">DevOpsDays</a> event. While it started off as a one day event in Mountain View, it has grown and moved to various homes in the Silicon Valley area. DevOpsDays joined LinuxFests in 2014.
