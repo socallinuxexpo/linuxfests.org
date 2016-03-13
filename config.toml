@@ -1,6 +1,6 @@
-baseurl = "http://www.linuxfests.org/"
 languageCode = "en-us"
-title = "Linux Fests"
+baseurl = "http://fests.s3-website-us-west-2.amazonaws.com/"
+title = "LinuxFests"
 
 [params]
     name = "LinuxFests"

@@ -14,18 +14,21 @@
                     <div class="modal-body">
                         <h2>{{ .title }}</h2>
                         <hr class="star-primary">
-                        <img width="300" src="img/portfolio/{{ .img }}" class="img-responsive img-centered" alt="" align="middle">
-                        <p>{{ .description | markdownify }}</p>
+                        <img src="img/portfolio/{{ .img }}" class="img-responsive img-centered" alt="" align="middle">
+                        <p align="left">{{ .description | markdownify }}</p>
                         <ul class="list-inline item-details">
-                            <li>{{ with $.Site.Params.portfolio.modal.client }}{{.}}{{ end }}:
-                                <strong><a href="{{ .clientLink }}">{{ .client }}</a></strong>
-                            </li>
-                            <li>{{ with $.Site.Params.portfolio.modal.date }}{{.}}{{ end }}:
-                                <strong>{{ .date }}</strong>
-                            </li>
-                            <li>{{ with $.Site.Params.portfolio.modal.category }}{{.}}{{ end }}:
-                                <strong>{{ .category }}</strong>
-                            </li>
+                            <li>{{ with $.Site.Params.portfolio.modal.client }}{{.}}{{ end }}
+                                <strong>Website: <a href="{{ .clientLink }}">{{ .client }}</a></strong>
+                            </li><br/>
+                            <li>{{ with $.Site.Params.portfolio.modal.date }}{{.}}{{ end }}
+                                <strong>Joined Year: {{ .date }}</strong>
+                            </li><br/>
+                            <li>{{ with $.Site.Params.portfolio.modal.category }}{{.}}{{ end }}
+                                <strong>Program Type: {{ .category }}</strong>
+                            </li><br/>
+                            <li>{{ with $.Site.Params.portfolio.modal.lead }}{{.}}{{ end }}
+                                <strong>Program Chair: {{ .lead }}</strong>
+                            </li><br/>
                         </ul>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> {{ with $.Site.Params.portfolio.modal.buttontext }}{{.}}{{ end }}</button>
                     </div>
