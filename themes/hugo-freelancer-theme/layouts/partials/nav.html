@@ -21,11 +21,14 @@
                     <a href="/#portfolio">{{ with .Site.Params.portfolio.linktext }}{{ . }}{{ end }}</a>
                 </li>
                 <li class="page-scroll">
+                    <a href="/donate/">Donate</a>
+               </li>
+               <li class="page-scroll">
                     <a href="{{ with .Site.Params.about.link }}{{ . }}{{ end }}">{{ with .Site.Params.about.title }}{{ . }}{{ end }}</a>
-                </li>
-                <li class="page-scroll">
+               </li>
+               <li class="page-scroll">
                     <a href="{{ with .Site.Params.contact.link }}{{ . }}{{ end }}">{{ with .Site.Params.contact.title }}{{ . }}{{ end }}</a>
-                </li>
+               </li>
             </ul>
         </div>
         {{ "<!-- /.navbar-collapse -->" | safeHTML }}
