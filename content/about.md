@@ -1,5 +1,4 @@
 +++
-date = "2016-02-14T16:11:58+05:30"
 draft = false
 title = "About LinuxFests"
 +++
@@ -16,13 +15,20 @@ free and open source software.
 Currently directors of LinuxFests are:
 
 ### Ilan Rabinovitch
-BIO GOES HERE
+
+![Ilan](/img/board/ilan.jpg)
+
+Ilan Rabinovitch is a founding member of the LinuxFests team.  He has been in organizing community driven open source events for over 15 years. He currently holds the Conference Chair role at SCALE.  Outside of his work with LinuxFests, he currently works at Datadog as Director of Community and Technical Evangelism.
 
 ### Orv Beach
+
 BIO GOES HERE
 
 ### Cody Lee
-BIO GOES HERE
+
+![Cody](/img/board/cody.png)
+
+Cody is a member of our Board since 2016. He has 6 years of experience with running a community driven open source conference called Texas Linux Festival. At Texas Linux Festival, Cody is the Conference Chairman and helps motivate and organize an awesome team of volunteers to create a rememberable and affordable event for attendees in the Mid-South region. Cody is also a Technical Co-Founder of WellAware Holdings Inc, an Oil and Gas Full-Stack data collection and analytics platform allowing Oil Companies to focus on production, reduce their costs and have better visibility into their operations, production, costs and safety.  Here he actively promotes  growth and learning within the organization, promote the usage many open source projects, and occasionally can contribute back to the FOSS community.
 
 ## Public Filings
 
