@@ -5,7 +5,7 @@ title = "About LinuxFests"
 
 ## Mission
 <br>
-Linux Expo of Southern California, Inc. is a 501c(3) not-for-profit organzation based in California.
+Linux Expo of Southern California, Inc. is a 501c(3) not-for-profit organization based in California.
 We are more commonly known by LinuxFests. Our mission is to provide educational programs around
 free and open source software.
 <br>
