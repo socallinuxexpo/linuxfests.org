@@ -24,7 +24,7 @@ Ilan Rabinovitch is a founding member of the LinuxFests team.  He has been in or
 
 <img style="float: left;" hspace="20" src="/img/board/orv.jpg" alt="Orv Beach">
 
-Orv is an enthusiastic, fun and knowledgeable Linux user/fan/evangelist. He will inspire and motivate you. He has been one of the originators & volunteers who helped to found and plan SCALE in Los Angeles. Orv has been messing around with computers for over 30 years. He started with CP/M, worked his way up through DOS, OS/2, Windows, and settled on Linux over 15 years ago. He’s been actively involved with the Open Source community ever since. He’s a principal member of the Simi Conejo Linux Users Group, and is currently the Training Chair of the Southern California Linux Expo.
+Orv is an enthusiastic, fun and knowledgeable Linux user/fan/evangelist.  He has been one of the originators & volunteers who helped to found and plan SCALE.  Orv has been messing around with computers for over 30 years. He started with CP/M, worked his way up through DOS, OS/2, Windows, and settled on Linux almost 20 years ago. He’s been actively involved with the Open Source community ever since.   He’s a principal member of the Simi Conejo Linux Users Group, and is currently the Training Chair of the Southern California Linux Expo.  Outside of the Open Source community, Orv works as a senior System Administrator for St. Jude Medical, based in Sylmar, California
 
 ### Cody Lee
 
