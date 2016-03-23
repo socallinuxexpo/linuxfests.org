@@ -18,7 +18,7 @@ Currently directors of LinuxFests are:
 
 <img style="float: left;" hspace="20" src="/img/board/ilan.jpg" alt="Ilan Rabinovitch">
 
-Ilan Rabinovitch is a founding member of the LinuxFests team.  He has been in organizing community driven open source events for over 15 years. He currently holds the Conference Chair role at SCALE.  Outside of his work with LinuxFests, he currently works at Datadog as Director of Community and Technical Evangelism.
+Ilan Rabinovitch is a founding member of the LinuxFests team.  He has been organizing community driven open source events for over 15 years, currently holds the Conference Chair role at SCALE.  Outside of his work with LinuxFests, Ilan works as Director of Technical Community & Evangelism at [Datadog](http://www.datadoghq.com).
 
 ### Orv Beach
 
