@@ -5,21 +5,19 @@ title = "Upcoming Events"
 
 # Upcoming Events
 
-## 2016
-- [Community Leadership Summit](http://www.communityleadershipsummit.com) -  May 14-15, Austin TX
-- [DevOps Days SV](http://www.devopsdays.org/events/2016-siliconvalley) - June 24-25, 2016 - Mountain View, CA
-- [Texas Linux Fest](http://2016.texaslinuxfest.org) - July 8-9, 2016, Austin TX
-- [SEAGL](http://www.seagl.org) - Nov 11-12, 2016 - Seattle, WA
-
-## 2017
-- [SCALE 15x](http://www.socallinuxexpo.org) - March 2-5, 2017 - Pasadena, CA
-
 ## 2018
 - [SCALE 16x](http://www.socallinuxexpo.org) - March 1-4, 2018 - Pasadena, CA
 
 # Past Events
 
+## 2017
+- [SCALE 15x](http://www.socallinuxexpo.org) - March 2-5, 2017 - Pasadena, CA
+
 ## 2016
+- [SEAGL](http://www.seagl.org) - Nov 11-12, 2016 - Seattle, WA
+- [Texas Linux Fest](http://2016.texaslinuxfest.org) - July 8-9, 2016, Austin TX
+- [DevOps Days SV](http://www.devopsdays.org/events/2016-siliconvalley) - June 24-25, 2016 - Mountain View, CA
+- [Community Leadership Summit](http://www.communityleadershipsummit.com) -  May 14-15, Austin TX
 - [SCALE 14x](http://www.socallinuxexpo.org/scale/14x/) - January 21-24, 2016 - Pasadena, CA
 - [DevOpsDay LA](devopsdays.org/events/2016-losangeles-1day/) - January 21, 2016 - Pasadena, CA
 - Open Source Legal Training - January 21, 2016 - Pasadena, CA
