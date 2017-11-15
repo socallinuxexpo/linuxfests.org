@@ -9,7 +9,7 @@ title = "Upcoming Events"
 - [Community Leadership Summit](http://www.communityleadershipsummit.com) -  May 14-15, Austin TX
 - [DevOps Days SV](http://www.devopsdays.org/events/2016-siliconvalley) - June 24-25, 2016 - Mountain View, CA
 - [Texas Linux Fest](http://2016.texaslinuxfest.org) - July 8-9, 2016, Austin TX
-- [SEAGL](http://www.seagl.org) - 'Q4 2016, Seattle, WA
+- [SEAGL](http://www.seagl.org) - Nov 11-12, 2016 - Seattle, WA
 
 ## 2017
 - [SCALE 15x](http://www.socallinuxexpo.org) - March 2-5, 2017 - Pasadena, CA
