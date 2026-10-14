@@ -1,5 +1,5 @@
 languageCode = "en-us"
-baseurl = "http://fests.s3-website-us-west-2.amazonaws.com/"
+baseurl = "https://www.linuxfests.org/"
 title = "LinuxFests"
 theme = "hugo-freelancer-theme"
 
