@@ -23,12 +23,15 @@
                             <li>{{ with $.Site.Params.portfolio.modal.date }}{{.}}{{ end }}
                                 <strong>Joined Year: {{ .date }}</strong>
                             </li><br/>
+                            {{ with .exitYear }}
+                            <li><strong>Exit Year: {{ . }}</strong></li><br/>
+                            {{ end }}
                             <li>{{ with $.Site.Params.portfolio.modal.category }}{{.}}{{ end }}
                                 <strong>Program Type: {{ .category }}</strong>
                             </li><br/>
-                            <li>{{ with $.Site.Params.portfolio.modal.lead }}{{.}}{{ end }}
-                                <strong>Program Chair: {{ .lead }}</strong>
-                            </li><br/>
+                            {{ with .lead }}
+                            <li><strong>Program Chair: {{ . }}</strong></li><br/>
+                            {{ end }}
                         </ul>
                         <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> {{ with $.Site.Params.portfolio.modal.buttontext }}{{.}}{{ end }}</button>
                     </div>

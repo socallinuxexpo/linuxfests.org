@@ -34,12 +34,20 @@ Cody is a member of our Board since 2016. He has 6 years of experience with runn
 
 ## Public Filings
 
-As a 501(c3)(3) non-profit, LinuxFests files our Form 990 annually with the Internal Revenue Service.
-We make these filings are available for review below:
+As a 501(c)(3) nonprofit, Linux Expo of Southern California, Inc. files annual returns with the Internal Revenue Service.
 
 ### Federal Form 990
-* FY 2015 - Not Yet Availale
-* [FY 2014 (PDF)](/files/990/2014.pdf)
-* [FY 2013 (PDF)](/files/990/2013.pdf)
-* [FY 2012 (PDF)](/files/990/2013.pdf)
-* [FY 2011 (PDF)](/files/990/2013.pdf)
+* [FY 2024](https://projects.propublica.org/nonprofits/display_990/300109876/IRS%2F300109876_202412_990_2026030223962050)
+* [FY 2023](https://projects.propublica.org/nonprofits/display_990/300109876/IRS%2F300109876_202312_990_2025021923111848)
+* [FY 2022](https://projects.propublica.org/nonprofits/display_990/300109876/download990pdf_01_2024_prefixes_27-30%2F300109876_202212_990_2024010422171454)
+* [FY 2021](https://projects.propublica.org/nonprofits/display_990/300109876/download990pdf_05_2023_prefixes_27-31%2F300109876_202112_990EZ_2023051521238444)
+* [FY 2020](https://projects.propublica.org/nonprofits/display_990/300109876/IRS%2F300109876_202012_990_2022010619403849)
+* [FY 2019](https://projects.propublica.org/nonprofits/display_990/300109876/04_2021_prefixes_27-31%2F300109876_201912_990_2021041417946232)
+* [FY 2018](https://projects.propublica.org/nonprofits/display_990/300109876/01_2020_prefixes_27-31%2F300109876_201812_990_2020012717070737)
+* [FY 2017](https://projects.propublica.org/nonprofits/display_990/300109876/02_2019_prefixes_27-30%2F300109876_201712_990_2019021416096940)
+* [FY 2016](https://projects.propublica.org/nonprofits/display_990/300109876/12_2017_prefixes_27-30%2F300109876_201612_990_2017122815063451)
+* [FY 2015](https://projects.propublica.org/nonprofits/display_990/300109876/2017_04_EO%2F30-0109876_990_201512)
+* [FY 2014](https://projects.propublica.org/nonprofits/display_990/300109876/2016_02_EO%2F30-0109876_990_201412)
+* [FY 2013](/files/990/2013.pdf)
+* [FY 2012](/files/990/2012.pdf)
+* [FY 2011](/files/990/2011.pdf)
